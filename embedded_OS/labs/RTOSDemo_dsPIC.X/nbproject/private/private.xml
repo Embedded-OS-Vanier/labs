@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/serge/Vanier/courses/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/DSPIC33/embedded_OS/labs/main.c</file>
+            <file>file:/C:/serge/Vanier/courses/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/DSPIC33/embedded_OS/labs/include/GenericTypeDefs.h</file>
+            <file>file:/C:/serge/Vanier/courses/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/DSPIC33/embedded_OS/labs/FreeRTOSConfig.h</file>
+            <file>file:/C:/serge/Vanier/courses/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/DSPIC33/embedded_OS/labs/common/Tick4.c</file>
+            <file>file:/C:/serge/Vanier/courses/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/DSPIC33/embedded_OS/labs/include/public.h</file>
+            <file>file:/C:/serge/Vanier/courses/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/DSPIC33/embedded_OS/labs/common/initBoard.c</file>
+            <file>file:/C:/serge/Vanier/courses/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/DSPIC33/Source/portable/MemMang/heap_1.c</file>
+            <file>file:/C:/serge/Vanier/courses/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/DSPIC33/embedded_OS/labs/common/lcd.c</file>
+            <file>file:/C:/serge/Vanier/courses/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/DSPIC33/embedded_OS/labs/include/lcd.h</file>
+            <file>file:/C:/serge/Vanier/courses/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/DSPIC33/embedded_OS/labs/vTaskBlink2.c</file>
+            <file>file:/C:/serge/Vanier/courses/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/DSPIC33/embedded_OS/labs/vTaskBlink1.c</file>
+            <file>file:/C:/serge/Vanier/courses/247-601-VA_Real%20Time%20Systems%20Programming/student_template_FreeRTOSV8.2.3/DSPIC33/embedded_OS/labs/include/initBoard.h</file>
+        </group>
+    </open-files>
+</project-private>
