@@ -40,8 +40,7 @@ int main( void )
    //Tasks creation
 	
  
-    vStartTaskBlink1();
-    vStartTaskBlink2();
+
 
     /* Finally start the scheduler. */
 	vTaskStartScheduler();
