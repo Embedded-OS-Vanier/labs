@@ -33,7 +33,7 @@ void vApplicationStackOverflowHook( TaskHandle_t pxTask, char *pcTaskName );
  */
 int main( void )
 {
-        /* CLK config at 16MHz*/
+        /* CLK config at 20MHz*/
     OSCILLATOR_Initialize();  // fosc = 20 MHZ
     initIO();
 
